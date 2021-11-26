@@ -1,0 +1,40 @@
+{
+  "players": [
+    {
+      "id":"1",
+      "RealName": "Brianna Forbes",
+      "PlayerName": "DreamLurk The Unstoppable",
+      "assets": "Froghammer Lead"
+    },
+    {
+      "id":"2",
+      "RealName": "Darcy Candice Ball",
+      "PlayerName": "Crystaldash",
+      "assets": "Secret Glowquake Gold"
+    },
+    {
+      "id":"3",
+      "RealName": "Hillary Gibbs",
+      "PlayerName": "Speedsoul",
+      "assets": "Shifting Rainshadow Iron"
+    },
+    {
+      "id":"4",
+      "RealName": "Elva Becky Hammond",
+      "PlayerName": "Seekvenom The Mystic",
+      "assets": "Valkyries' Opal Adamant"
+    },
+    {
+      "id":"5",
+      "RealName": "Enid Rose",
+      "PlayerName": "Coincurse The Ghoul",
+      "assets": "Jewelevil Bronze Of Goddesses"
+    },
+    {
+      "id":"6",
+      "RealName": "Esmeralda Carrillo",
+      "PlayerName": "Skulldart",
+      "assets": "Yellow Orichalcum Of Paladins"
+    }
+  ]
+}
